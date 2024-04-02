@@ -1,0 +1,45 @@
+body{
+    background-color: aqua;
+}
+  .quiz{
+    background-color:blue;
+    max-width: 600px;
+    margin: 100px auto 0;
+    border-radius: 20px;
+    width:;
+    padding: 30px;
+  } .quiz h1{
+    font-size: large;
+    color: azure;
+    border-bottom: 2px solid;
+  }.question{
+    padding:20px;
+  }.question h2{
+    font-size: larger;
+  }.button{
+    background-color: blueviolet;
+    color: azure;
+    font-weight: 500;
+    width:100%;
+    border:1px solid brown;
+    padding:10px;
+    margin:10px 0;
+    text-align: left;
+    border-radius: 4px;
+    cursor:pointer;
+    transition: all 0.3s;
+  }.button:hover{
+    background-color: black;
+    color: antiquewhite;
+  }#Next{
+    background-color: blueviolet;
+    color:white;
+    width:150px;
+    border:0;
+    padding:10px;
+    margin:20px auto 0;
+    border-radius: 4px;
+    cursor:pointer;
+    
+  }
+  
